@@ -1,4 +1,4 @@
-# Hello, welcome to Homework 7
+# Hello, welcome to My command line helper!
 >**To run the scripts, please, use the main.py file.**
 
 The rules are simple:
@@ -8,7 +8,4 @@ The rules are simple:
 3. Install the requirements with `pip install -r requirements. txt`
 4. Run the `main.py` file with your python interprenter. 
 
-> **You will need colorama package insalled to run this app**
-
-
-That's it. If you have any questions, feel free to reach out to me on [Slack](https://python25softw-jvd6587.slack.com/team/U073TRZ7TBP)!
+> **You will need colorama package insalled to run this app, so dont forget to run `pip install -r requirements. txt`**
